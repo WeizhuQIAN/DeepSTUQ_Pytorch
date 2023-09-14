@@ -1,6 +1,6 @@
 # Code for DeepSTUQ
 
-## Paper:
+## Related Papers:
 ### [Uncertainty Quantification for Traffic Forecasting: A Unified Approach, ICDE 2023](https://arxiv.org/pdf/2208.05875.pdf) 
 ### [Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting, TKDE 2023](https://ieeexplore.ieee.org/abstract/document/10242138)
 
