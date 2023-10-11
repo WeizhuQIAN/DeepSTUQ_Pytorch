@@ -6,3 +6,9 @@
 
 ## Datasets:
 [PEMS datasets](https://www.kaggle.com/datasets/elmahy/pems-dataset?resource=download)
+
+
+## Acknowledgement:
+The implementation is based on [this repository](https://github.com/LeiBAI/AGCRN)  
+
+
